@@ -30,16 +30,11 @@ Follow the steps mentioned below : -
      
 
 5. Run the required program
-   - Type the following command and press Enter:  
+     Type the following command and press Enter:  
    
      		python calc.py
 
 	SAMPLE OUTPUT
 <img width="649" height="273" alt="image" src="https://github.com/user-attachments/assets/75b0a2fd-daf5-476e-b6ba-6eb4fac64401" />
-
-
-
-
-
 
 If you get stuck or see any errors, double-check that Python is installed correctly and that you are in the right folder when running the program.
