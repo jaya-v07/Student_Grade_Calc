@@ -5,10 +5,7 @@ for i in range(5):
     num.append(value)
 print("________________________________\n")
 print(" The total marks of 5 subjects is : ", sum(num))
-avg = 0;
-for i in range(5):
-    avg = avg + num[i];
-avg = avg / 5;
+avg = (sum(num)) / 5;
 print("the average marks: ", avg);
 print("The Student's Grade is : ")
 if avg >= 90:
