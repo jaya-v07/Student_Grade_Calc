@@ -24,35 +24,22 @@ Follow the steps mentioned below : -
 
    4. Navigate to the folder containing program 
    - Use the 'cd' command to change directories.
-   - for example :
-     		cd Downloads/student-grade-calculator
+  	 for example :
+
+  			cd Downloads/student-grade-calculator
      
 
 5. Run the required program
    - Type the following command and press Enter:  
    
-     python 
+     		python calc.py
 
-6. **Enter the marks**  
-   - Type the marks (numbers between 0 and 100) and press Enter after each one.
+	SAMPLE OUTPUT
+<img width="649" height="273" alt="image" src="https://github.com/user-attachments/assets/75b0a2fd-daf5-476e-b6ba-6eb4fac64401" />
 
-7. **See the results**  
-   - After entering all marks, the program will display the total marks, average marks, and your grade based on the average.
 
----
 
-## Grading Rules
-- Average ≥ 90 → Grade A  
-- Average ≥ 75 → Grade B  
-- Average ≥ 50 → Grade C  
-- Average < 50 → Grade F  
 
----
 
-## Notes
-- Input validation ensures marks are between 0 and 100.  
-- Average is displayed up to 2 decimal places.
-
----
 
 If you get stuck or see any errors, double-check that Python is installed correctly and that you are in the right folder when running the program.
